@@ -1,5 +1,15 @@
 # [Robert College Quantum Computing Club](https://rcquantum.org)
 
+## LICENSE For PRIVATE Repositories
+Copyright (C) 2024 rcquantumcomputing.
+
+This program is owned by RCQCC https://rcquantum.org and is exclusively for use by its rightful owner. 
+
+The distribution or sharing of this software, either partially or in its entirety, is strictly prohibited under copyright law. 
+If you find this software in any unauthorized location, please contact us at: rcquantum@robcol.k12.tr.
+RCQCC disclaims any liability for damages arising from the use of this software.
+
+
 ## LICENSE For PUBLIC Repositories
 MIT License
 
@@ -22,13 +32,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-## LICENSE For PRIVATE Repositories
-Copyright (C) 2024 rcquantumcomputing.
-
-This program is owned by RCQCC https://rcquantum.org and is exclusively for use by its rightful owner. 
-
-The distribution or sharing of this software, either partially or in its entirety, is strictly prohibited under copyright law. 
-If you find this software in any unauthorized location, please contact us at: rcquantum@robcol.k12.tr.
-RCQCC disclaims any liability for damages arising from the use of this software.
