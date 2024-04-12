@@ -1,1 +1,1 @@
-# .github
+# Robert College Quantum Computing Club
