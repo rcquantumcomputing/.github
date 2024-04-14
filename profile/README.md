@@ -1,7 +1,7 @@
 # [Robert College Quantum Computing Club](https://rcquantum.org)
 
 ## LICENSE For PRIVATE Repositories
-Copyright (C) 2024 rcquantumcomputing.
+Copyright (C) 2024 RC Quantum Computing Club
 
 This program is owned by RCQCC https://rcquantum.org and is exclusively for use by its rightful owner. 
 
